@@ -1,0 +1,106 @@
+User: courses in college
+Ardub: I do not understand...
+User: & "C:/Program Files/Python311/python.exe" d:/chatBot_model/chat.py
+Ardub: I do not understand...
+User: hi
+Ardub: I do not understand...
+User: hi
+Ardub: I do not understand...
+User: & "C:/Program Files/Python311/python.exe" d:/chatBot_model/chat.py
+Ardub: I do not understand...
+User: hi
+Ardub: I do not understand...
+User: hi
+Ardub: What can I do for you?
+User: what is your name
+Ardub: I'm Zax
+User: how long will be BE/B.tech course
+Ardub: Our college offers 4 year long BE/BTECH courses!
+User: how many semesters one should study in a year
+Ardub: There are two semesters per year.
+User: what are the exams like?
+Ardub: Our college is situated at saravanampatti
+User: sdfsd
+Pal: Not sure if i can understand
+User: hi
+Pal: What can I do for you?
+User: afasf
+Pal: Sorry, can't understand you
+User: hi
+Pal: What can I do for you?
+User: hello
+Pal: What can I do for you?
+User: name?
+Pal: I'm arDub your virtual assistant
+User: hi
+Pal: Hello!
+User: hello
+Pal: Hello!
+User: how are you?
+Pal: There are two semesters per year.
+User: hi
+Pal: Hello!
+User: sg
+Pal: cant get you..
+User: asdasd
+Pal: cant get you..
+User: afasf
+Pal: cant get you..
+User: afasfsaf
+Pal: Sorry, can't understand you
+User: hi
+Pal: Greetings! I'm happy to be your guide on your cloud journey.
+User: CEO
+Pal: Their IoT services contribute to the development and management of smart, connected systems.
+User: CEO
+Pal: Experienced Executive Leader in Information Technology, specialized in Digital Transformation, E-Commerce, Software Application Development, Business Intelligence, RPA Technologies, DevOps, Product Management, and Cloud Operations.
+User: Reasons to choose cloud destination?
+Pal: Cloud Destinations is a one-stop technological solution supplier, offering flexibility in engagement models. We provide worry-free warranty-like services, executing customer visions and delivering post-launch Managed IT Services, staffing, and solution support.
+User: Vision of cloud destination?
+User: hi
+Pal: Hello!
+User: vision of cloud destination
+User: operations HR manager details
+Pal: Gokulakrishnan S is the Operations HR Manager at Cloud Destinations.
+Highly accomplished professional with an impressive track record in talent acquisition across various industry verticals and domains.
+User: what is the vision of cloud destinations?
+Pal: Cloud Destinations envisions being an extension to customers’ organizations, aiding in engineering initiatives and cloud adoption.
+User: fas
+User: hi
+Pal: Greetings! I'm happy to be your guide on your cloud journey.
+User: why to choose cloud destinations?
+Pal: Cloud Destinations is a one-stop technological solution supplier, offering flexibility in engagement models. We provide worry-free warranty-like services, executing customer visions and delivering post-launch Managed IT Services, staffing, and solution support.
+User: tell me about the ceo of cloud destinations
+Pal: Siva Dharmaraj is the Chief Executive Officer of Cloud Destinations.
+Experienced Executive Leader in Information Technology, specialized in Digital Transformation, E-Commerce, Software Application Development, Business Intelligence, RPA Technologies, DevOps, Product Management, and Cloud Operations.
+User: hi
+Pal: What can I do for you?
+User: hi
+Pal: What's up? Let's talk about making your dreams a reality in the cloud!
+User: hi
+Pal: Greetings! I'm happy to be your guide on your cloud journey.
+User: tell me about cloud destinations 
+User: what services do cloud destination offer?
+Pal: Think of the cloud as a Swiss Army knife for your IT needs. You'll find services like computing (virtual machines, containers), storage (cloud storage, databases), networking (virtual networks, load balancing)
+User: hello
+Pal: What's up? Let's talk about making your dreams a reality in the cloud!
+User: hi
+Pal: Hello! Welcome to your Cloud Destinations assistant. Ask me anything about the cloud!
+User: what services does cloud destinations provide 
+Pal: Cloud Destinations supports leading cloud platforms such as Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud. We have expertise in leveraging the features and capabilities of these platforms to design, deploy, and manage cloud solutions for our clients.
+User: tell me about the ceo
+Pal: Siva Dharmaraj is the Chief Executive Officer of Cloud Destinations.
+Experienced Executive Leader in Information Technology, specialized in Digital Transformation, E-Commerce, Software Application Development, Business Intelligence, RPA Technologies, DevOps, Product Management, and Cloud Operations.
+User: hi
+Pal: Hey there! What can I help you explore in the exciting world of cloud computing today?
+User: what services do cloud destinations provide 
+User: ceo
+Pal: Siva Dharmaraj is the Chief Executive Officer of Cloud Destinations.
+Experienced Executive Leader in Information Technology, specialized in Digital Transformation, E-Commerce, Software Application Development, Business Intelligence, RPA Technologies, DevOps, Product Management, and Cloud Operations.
+User: why cloud destination?
+Pal: Cloud Destinations is a one-stop technological solution supplier, offering flexibility in engagement models. We provide worry-free warranty-like services, executing customer visions and delivering post-launch Managed IT Services, staffing, and solution support.
+User: hi
+Pal: Hello! Welcome to your Cloud Destinations assistant. Ask me anything about the cloud!
+User: tell me about the CEO of cloud destinations 
+Pal: Mr.Siva Dharmaraj is the Chief Executive Officer of Cloud Destinations.
+Experienced Executive Leader in Information Technology, specialized in Digital Transformation, E-Commerce, Software Application Development, Business Intelligence, RPA Technologies, DevOps, Product Management, and Cloud Operations.
